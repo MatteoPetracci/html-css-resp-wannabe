@@ -23,7 +23,14 @@
 }
 
 @media screen and (max-width:420px) {
-  h3 {
+ .row {
+    font-size: 70px;
+  }
+
+}
+
+@media screen and (max-width:420px) {
+  h3#text {
     font-size: 70px;
   }
 
